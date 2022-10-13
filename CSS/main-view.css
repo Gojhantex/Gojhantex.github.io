@@ -1,0 +1,8 @@
+.main-view img {
+    width: 100%;
+    /* max-height: calc(100vh - var(--header-line-height) - var(--top-bar-height)); */
+    /* height: calc(100vh - (var(--header-content-height) + var(--top-bar-height))); */
+    object-fit: cover;
+    /* object-position: 50% 60%; */
+    padding: 0 30px;
+}
